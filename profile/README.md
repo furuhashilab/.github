@@ -1,4 +1,4 @@
-# About the Furuhashi Lab.
+# [About the Furuhashi Lab.](https://github.com/furuhashilab/README)
 We are the Furuhashi Laboratory at Aoyama Gakuin University,Japan. a.k.a. mapconcierge's Lab.
 
 ---
