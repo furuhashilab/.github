@@ -7,7 +7,7 @@ We are the Furuhashi Laboratory at Aoyama Gakuin University,Japan. a.k.a. mapcon
 
 ---
 
-古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md/">2025/03/11 Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/tree/master?tab=coc-ov-file)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md/">2025/03/11 Updated)</a>
 
 
 ## 基本理念
@@ -40,7 +40,6 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 * 公式GitHub : https://github.com/furuhashilab
 * 公式YouTube : https://www.youtube.com/@furuhashilabs
 * YouTube再生リスト : https://youtube.com/playlist?list=PLtNZ0UPlDLE9zAW9Ghh-fQPJBIkxPxSRS&si=AePPDJrwM1_G5RNK
-* ゼミ生向けSlack : http://furuhashilab.slack.com/
 
 ---
 
@@ -66,7 +65,7 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 * 参加したフィールドワークの報告を[オンライン上(公式ブログ on Medium)](https://github.com/furuhashilab/README/issues/13)で必ず行う。
 * 毎年数回開催される[国際会議・カンファレンスに3月末までに1回以上参加](https://github.com/furuhashilab/README/issues/21)が必須。
 * 早い段階でクライシスマッピングに参画できるよう、1/31迄にマッパーレベルを**中級者クラス**まで引き上げる。（現在の閾値 [INTERMEDIATE以上](http://learnosm.org/en/coordination/tm-whats-new-for-mappers/)。 ex.[古橋](https://tasks.hotosm.org/user/MAPconcierge) ）
-* フィールドワークを楽しめる素養を得るために **[INGRESS](https://ingress.com/)はLevel6以上(全員必修)** and **自由選択の位置情報ゲーム実績を１つ(**Pokémon GOはLevel30以上(2026年度移行はLv35以上に変更予定)**、~~MinecraftEarth Lv.10以上~~、ドラクエWalk パーティ平均レベルLv40以上、Pikmin Bloom Lv.50以上、信長の野望出陣 Lv.30以上、モンスターハンターNow Lv.40以上、駅メモ Rank50以上、Jurassic World Alive Lv10以上、その他は要相談)** を獲得する。毎年 9/30 23:59:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv25[2026年度から]以上等）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 1/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow">Facebook青学古橋研究室プライベートグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。特別な理由がある場合は別途相談とする。
+* フィールドワークを楽しめる素養を得るために **[INGRESS](https://ingress.com/)はLevel6以上(全員必修)** and **自由選択の位置情報ゲーム実績を１つ(**Pokémon GOはLevel30以上**、~~MinecraftEarth Lv.10以上~~、ドラクエWalk パーティ平均レベルLv40以上、Pikmin Bloom Lv.50以上、信長の野望出陣 Lv.30以上、モンスターハンターNow Lv.40以上、駅メモ Rank50以上、Jurassic World Alive Lv10以上、その他は要相談)** を獲得する。毎年 9/30 23:59:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv20以上等）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 1/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow">Facebook青学古橋研究室プライベートグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。特別な理由がある場合は別途相談とする。
 ※ 2018-09-17 に目標レベルの値を学生たちと議論して修正しました。
 ※ 2019-09-30 に目標レベル未到達の場合について対処法を学生たちと議論して修正しました。
 ※ 2020-01-16 に進捗確認日を成績提出期間前に再設定。
@@ -134,7 +133,7 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 # 授業について
  
 ## 1． 欠席、遅刻、途中退席について
-* 欠席・遅刻・途中退席の場合は **事前に [ゼミ共通のSlack](http://furuhashilab.slack.com/) もしくは [Instagramグループチャット](https://www.instagram.com/direct/t/7282225225134348/) に欠席連絡** を入れ、オンラインにて参加することとする。
+* 欠席・遅刻・途中退席の場合は **事前に [Instagramグループチャット](https://ig.me/j/AbYyCCedFVEZNgAP/) に欠席連絡** を入れ、オンラインにて参加することとする。
  
 ## 2． 私語について
 * 原則禁止とする。
@@ -154,7 +153,7 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 * 特別な理由がない限り印刷目的のコンテンツに対して MSゴシック/MS明朝等のディスプレイ表示用フォント使用は禁止します。印刷用に最適化されたフォントを選んでください。
 
 ## 6． そのほか、許されないこと
-* スマホ、タブレット、ノートPC等は使用可。わからないことは積極的にインターネットやAIで検索・リサーチすること。
+* スマホ、タブレット、ノートPC等は使用可。わからないことは積極的にインターネットで検索すること。
 * イヤフォンの使用は特別な理由がない限り禁止とする。
 * 授業中に寝る行為は、他の学生に悪影響のない場合は無視します。但し、授業の課題提出が非効率になると共に、授業中に説明した事項についてはその後の質問に答えないので、各自でリスク管理をしてください。
 
@@ -162,16 +161,16 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 
 ---
 
-# 古橋ゼミ標準装備2025
+# 古橋ゼミ標準装備
 ## <a name="notepc">ノートPC</a>
 * Display: 解像度 WXGA+(1440×900)以上
 * CPU: Intel製 Core i5 相当以上（推奨） or Apple M1 相当以上（推奨）
 * Memory: 16GB 以上（推奨）
-* Storage: 128GB以上のSSD
+* Storage: 512GB以上のSSD
 * Wi-Fi: IEEE802.11a/ac/n (5GHz帯)が利用できるもの
 * Display Output: HDMIが内蔵端子あるいはアダプタ経由で出力できること
-* OS: macOS 11(Big Sur)以降または Windows11 以降のいずれかが動作すること
-* Battely: 標準バッテリでの駆動時間が最低2時間以上
+* OS: macOS 11(Big Sur)以降または Windows10 以降のいずれかが動作すること
+* Battery: 標準バッテリでの駆動時間が最低2時間以上
 
 ## <a name="smartphone">スマートフォン</a>
 * OS: iOSもしくはAndroid
@@ -202,15 +201,6 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 * 小型軽量LEDタイプ（100円ショップなどで売っている数百円のものでも十分）
 * 可愛さ・デザイン重視で良い
 * 予算に余裕があれば [たねほうずき](https://amzn.to/3kqUQjk) もオススメ。
-
-
-## 食器類
-* 箸
-* コッヘル
-* コップ
-の3点セットがあれば十分。なければ自分で工夫。
-
-
 
 ---
 
